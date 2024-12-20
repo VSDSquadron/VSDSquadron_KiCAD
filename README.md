@@ -19,3 +19,7 @@ This is a KiCad library for creating a shield for the VSDSquadron FM module.
    - Select the `VSDSquadron_FM.pretty` folder from the library folder you copied earlier.  
 
 Enjoy designing with the VSDSquadron FM KiCad library!
+
+![alt text](_images/Shield_no_parts.jpg)
+
+![alt text](_images/Shield.jpg)
