@@ -23,3 +23,5 @@ Enjoy designing with the VSDSquadron FM KiCad library!
 ![alt text](_images/Shield_no_parts.jpg)
 
 ![alt text](_images/Shield.jpg)
+
+![alt text](_images/Symbol.png)
