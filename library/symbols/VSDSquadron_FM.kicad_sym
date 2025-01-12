@@ -7,24 +7,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 22.352 -31.75 0)
+			(at -11.938 9.398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" ""
-			(at 22.352 -33.528 0)
+		(property "Value" "VSDSquadron FM"
+			(at -0.254 9.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "VSDsquadron_FM:VSDSquadron_FM"
-			(at 19.812 -16.256 0)
+			(at 4.572 -2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33,7 +32,7 @@
 			)
 		)
 		(property "Datasheet" "https://github.com/yathAg/VSDSquadron_FM"
-			(at 19.812 -16.256 0)
+			(at -4.318 -2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42,7 +41,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -15.24 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60,7 +59,7 @@
 		)
 		(symbol "VSDSquadron_FM_1_0"
 			(pin bidirectional line
-				(at 10.16 -40.64 90)
+				(at -6.35 -17.78 90)
 				(length 2.54)
 				(name "3"
 					(effects
@@ -78,7 +77,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -40.64 90)
+				(at -3.81 -17.78 90)
 				(length 2.54)
 				(name "4"
 					(effects
@@ -96,7 +95,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -40.64 90)
+				(at -1.27 -17.78 90)
 				(length 2.54)
 				(name "6"
 					(effects
@@ -114,7 +113,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 21.59 -40.64 90)
+				(at 1.27 -17.78 90)
 				(length 2.54)
 				(name "9"
 					(effects
@@ -132,7 +131,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 25.4 -40.64 90)
+				(at 3.81 -17.78 90)
 				(length 2.54)
 				(name "10"
 					(effects
@@ -150,7 +149,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 41.91 -31.75 180)
+				(at 17.78 -8.89 180)
 				(length 2.54)
 				(name "13"
 					(effects
@@ -168,7 +167,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 41.91 -27.94 180)
+				(at 17.78 -6.35 180)
 				(length 2.54)
 				(name "18"
 					(effects
@@ -186,7 +185,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 41.91 -24.13 180)
+				(at 17.78 -3.81 180)
 				(length 2.54)
 				(name "19"
 					(effects
@@ -204,7 +203,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 41.91 -20.32 180)
+				(at 17.78 -1.27 180)
 				(length 2.54)
 				(name "21"
 					(effects
@@ -222,7 +221,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 41.91 -16.51 180)
+				(at 17.78 1.27 180)
 				(length 2.54)
 				(name "23"
 					(effects
@@ -239,8 +238,8 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 41.91 -12.7 180)
+			(pin power_in line
+				(at 17.78 3.81 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -258,7 +257,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 41.91 -8.89 180)
+				(at 17.78 6.35 180)
 				(length 2.54)
 				(name "25"
 					(effects
@@ -276,7 +275,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 41.91 -5.08 180)
+				(at 17.78 8.89 180)
 				(length 2.54)
 				(name "26"
 					(effects
@@ -294,7 +293,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 33.02 3.81 270)
+				(at 8.89 17.78 270)
 				(length 2.54)
 				(name "27"
 					(effects
@@ -312,7 +311,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 29.21 3.81 270)
+				(at 6.35 17.78 270)
 				(length 2.54)
 				(name "28"
 					(effects
@@ -330,7 +329,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 3.81 270)
+				(at -1.27 17.78 270)
 				(length 2.54)
 				(name "34"
 					(effects
@@ -348,7 +347,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -12.7 0)
+				(at -17.78 3.81 0)
 				(length 2.54)
 				(name "43"
 					(effects
@@ -366,7 +365,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 3.81 270)
+				(at -3.81 17.78 270)
 				(length 2.54)
 				(name "35"
 					(effects
@@ -384,7 +383,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 3.81 270)
+				(at -6.35 17.78 270)
 				(length 2.54)
 				(name "36"
 					(effects
@@ -402,7 +401,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 3.81 270)
+				(at -8.89 17.78 270)
 				(length 2.54)
 				(name "37"
 					(effects
@@ -420,7 +419,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -16.51 0)
+				(at -17.78 1.27 0)
 				(length 2.54)
 				(name "44"
 					(effects
@@ -438,7 +437,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -20.32 0)
+				(at -17.78 -1.27 0)
 				(length 2.54)
 				(name "45"
 					(effects
@@ -456,7 +455,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -24.13 0)
+				(at -17.78 -3.81 0)
 				(length 2.54)
 				(name "46"
 					(effects
@@ -474,7 +473,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -27.94 0)
+				(at -17.78 -6.35 0)
 				(length 2.54)
 				(name "47"
 					(effects
@@ -494,8 +493,8 @@
 		)
 		(symbol "VSDSquadron_FM_1_1"
 			(rectangle
-				(start 0 1.27)
-				(end 39.37 -38.1)
+				(start -15.24 15.24)
+				(end 15.24 -15.24)
 				(stroke
 					(width 0)
 					(type default)
@@ -505,7 +504,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -5.08 0)
+				(at -17.78 8.89 0)
 				(length 2.54)
 				(name "38"
 					(effects
@@ -523,7 +522,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 29.21 -40.64 90)
+				(at 6.35 -17.78 90)
 				(length 2.54)
 				(name "11"
 					(effects
@@ -541,7 +540,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 33.02 -40.64 90)
+				(at 8.89 -17.78 90)
 				(length 2.54)
 				(name "12"
 					(effects
@@ -559,7 +558,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -8.89 0)
+				(at -17.78 6.35 0)
 				(length 2.54)
 				(name "42"
 					(effects
@@ -577,7 +576,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 25.4 3.81 270)
+				(at 3.81 17.78 270)
 				(length 2.54)
 				(name "31"
 					(effects
@@ -595,7 +594,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 21.59 3.81 270)
+				(at 1.27 17.78 270)
 				(length 2.54)
 				(name "32"
 					(effects
@@ -613,7 +612,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -2.54 -31.75 0)
+				(at -17.78 -8.89 0)
 				(length 2.54)
 				(name "48"
 					(effects
@@ -631,7 +630,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 -40.64 90)
+				(at -8.89 -17.78 90)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -651,8 +650,8 @@
 		)
 		(symbol "VSDSquadron_FM_2_1"
 			(rectangle
-				(start 13.97 -25.4)
-				(end 30.48 -30.48)
+				(start -3.175 8.255)
+				(end 2.54 -8.255)
 				(stroke
 					(width 0)
 					(type default)
@@ -661,8 +660,8 @@
 					(type background)
 				)
 			)
-			(pin power_out line
-				(at 16.51 -22.86 270)
+			(pin power_in line
+				(at -5.715 -5.715 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -679,8 +678,8 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 20.32 -22.86 270)
+			(pin power_in line
+				(at -5.715 -1.905 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -697,8 +696,8 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 24.13 -22.86 270)
+			(pin power_in line
+				(at -5.715 1.905 0)
 				(length 2.54)
 				(name "3V3"
 					(effects
@@ -715,8 +714,8 @@
 					)
 				)
 			)
-			(pin power_out line
-				(at 27.94 -22.86 270)
+			(pin power_in line
+				(at -5.715 5.715 0)
 				(length 2.54)
 				(name "5V0"
 					(effects
