@@ -69,16 +69,6 @@
 		)
 	)
 	(attr smd)
-	(fp_line
-		(start -14.528764 12.718236)
-		(end -14.528764 -12.681764)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "0ec356b3-04ce-4afd-b912-40183364de8b")
-	)
 	(fp_poly
 		(pts
 			(xy -0.052592 -8.82508) (xy -0.106383 -8.714064) (xy 0.001199 -8.714064) (xy -0.052592 -8.82508)
@@ -596,6 +586,16 @@
 		(fill solid)
 		(layer "F.SilkS")
 		(uuid "f6211e7f-95ed-459b-a59f-882b606692bc")
+	)
+	(fp_line
+		(start -14.528764 12.718236)
+		(end -14.528764 -12.681764)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "0ec356b3-04ce-4afd-b912-40183364de8b")
 	)
 	(fp_line
 		(start -12.750764 -14.459764)
