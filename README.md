@@ -1,6 +1,6 @@
-# VSDSquadron_FM_KiCad
+# VSDSquadron KiCad
 
-This is a KiCad library for creating a shield for the VSDSquadron FM module.
+This is a KiCad library for creating a shield for the VSDSquadron Boards.
 
 ## How to Use
 
@@ -10,18 +10,12 @@ This is a KiCad library for creating a shield for the VSDSquadron FM module.
 2. **Add the Symbol Library**  
    - Open your KiCad project.  
    - Go to **Preferences** > **Manage Symbol Libraries**.  
-   - Add `VSDSquadron_FM.kicad_sym` to the project symbol libraries.
+   - Add `VSDSquadron.kicad_sym` to the project symbol libraries.
 
 3. **Add the Footprint Library**  
    - Open your KiCad project.  
    - Go to **Preferences** > **Manage Footprint Libraries**.  
    - In the **Project Specific Libraries** tab, click **Add Library** (folder icon).  
-   - Select the `VSDSquadron_FM.pretty` folder from the library folder you copied earlier.  
+   - Select the `VSDSquadron.pretty` folder from the library folder you copied earlier.  
 
-Enjoy designing with the VSDSquadron FM KiCad library!
-
-![alt text](_images/Shield_no_parts.jpg)
-
-![alt text](_images/Shield.jpg)
-
-![alt text](_images/Symbol.png)
+Enjoy designing with the VSDSquadron KiCad library!
